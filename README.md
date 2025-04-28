@@ -28,7 +28,7 @@
 
 ---
 ```
-uncomment for other project 
+**uncomment for other project** 
 ```
 <!--
 ## 📂 **Code Repository**
