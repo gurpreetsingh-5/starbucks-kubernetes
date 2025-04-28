@@ -27,7 +27,7 @@
 - Implement **Trivy** for vulnerability scanning and **OWASP** for security best practices.
 
 ---
-
+!<--
 ## 📂 **Code Repository**
 Explore the code and contribute to the project:  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aseemakram19/starbucks-kubernetes.git)
@@ -54,7 +54,7 @@ Let's connect and discuss DevSecOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aseem-akram/)  
 
-
+-->
 
 
 
