@@ -27,6 +27,9 @@
 - Implement **Trivy** for vulnerability scanning and **OWASP** for security best practices.
 
 ---
+```
+uncomment for other project 
+```
 <!--
 ## 📂 **Code Repository**
 Explore the code and contribute to the project:  
